@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Operating system files
+.DS_Store
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Build directories
+dist/
+build/
+
+# Heroku-specific files
+*.heroku/
+
+# Optional: You can add other specific files you don't want to commit
